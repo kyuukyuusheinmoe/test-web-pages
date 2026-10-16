@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f4efe7;
+  --paper-2: #ebe4d8;
+  --ink: #1d1a1f;
+  --muted: #6a6270;
+  --line: #d9cfc0;
+  --plum: #3d1f3a;
+  --plum-2: #5a2f55;
+  --saffron: #e8a33d;
+  --sage: #9fb39a;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-plum: var(--plum);
+  --color-plum-2: var(--plum-2);
+  --color-saffron: var(--saffron);
+  --color-sage: var(--sage);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-fraunces);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none;
+}
+
+.prose-link {
+  text-decoration: underline;
+  text-decoration-color: var(--saffron);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.prose-link:hover {
+  color: var(--plum-2);
+}

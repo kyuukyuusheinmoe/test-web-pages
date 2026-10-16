@@ -1,0 +1,3 @@
+# Test fixture: keep it out of search indexes so it never competes with the real site.
+User-agent: *
+Disallow: /
