@@ -8,7 +8,7 @@ const ORIGIN = "https://kayablissnyc.com";
 export const site = {
   name: "Kaya Bliss Dispensary",
   title:
-    "Cannabis Dispensary, Weed Dispensary, Dispensary Near Me & Recreational Dispensary | Brooklyn, NY | Kaya Bliss Dispensary",
+    "Cannabis Dispensary, Weed Dispensary, Dispensary Near Me & Recreational Dispensary | Brooklyn, NY | Kaya Bliss Dispensary.",
   description:
     "Discover the best cannabis products in Bay Ridge, Brooklyn at Kaya Bliss Dispensary. Visit us for all your recreational and medical marijuana needs.",
 };
