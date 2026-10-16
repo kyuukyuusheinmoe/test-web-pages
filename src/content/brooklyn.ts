@@ -164,7 +164,7 @@ export const reviews = {
       author: "Sabrina L.",
     },
     {
-      body: "Absolutely great customer service! Everything is so timely and the workers actually pay attention to you. Also they have a great Toys For Tots donation box going on for the holidays. Give a gift, get a free treat! Will definitely be back",
+      body: "Absolutely great customer service! Everything is so timely and the workers actually pay attention to you. Also they have a great Toys For Tots donation box going on for the holidays.",
       author: "Tiffany B.",
     },
   ],
@@ -245,8 +245,8 @@ export const story = [
     level: "h2",
     heading: "A Curated Selection of Premium Cannabis Products",
     paragraphs: [
-      `Step into our inviting [Brooklyn dispensary](${ORIGIN}/), and you’ll be greeted by an array of carefully selected cannabis products. From fragrant flower strains to potent concentrates, soothing tinctures to delectable edibles, we have something for everyone. Our inventory is meticulously curated to ensure that you have access to the highest quality products available in the market.`,
-      "We take great care in partnering with trusted cultivators and brands who share our commitment to excellence. Explore our curated selection of cannabis products. Whether you’re seeking relief from chronic pain, a way to unwind after a long day, or a creative spark to fuel your inspiration, Kaya Bliss Dispensary has the perfect cannabis product to suit your needs.",
+      `Step into our inviting [Brooklyn dispensary](${ORIGIN}/), and you’ll be greeted by an array of carefully selected cannabis products.   Our inventory is meticulously curated to ensure that you have access to the highest quality products available in the market.`,
+      "We take great care in partnering with trusted cultivators and brands who share our commitment to excellence. Explore our curated selection of cannabis products. Explore Kaya Bliss Dispensary’s selection of cannabis products to find options that match your preferences.",
     ],
   },
   {
